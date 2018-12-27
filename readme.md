@@ -1,5 +1,5 @@
 SSAFY Start Camp 챗봇 퀘스트
-지역_1_김싸피, https://github.com/ㅇㅇㅇ
+서울_10_윤주영, https://github.com/sgez123
 
 # I. 스펙(Specification)
 ### 구현된 어플리케이션의 주요 기능
